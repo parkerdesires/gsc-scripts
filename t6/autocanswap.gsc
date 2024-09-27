@@ -2,7 +2,6 @@
 #include common_scripts\utility;
 
 //simple function for autocanswap
-//super useful for creating out of maps
 
 autocanswap()
 {
