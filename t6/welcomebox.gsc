@@ -3,6 +3,8 @@
 #include maps\mp\gametypes\_hud_util;
 #include maps\mp\gametypes\_hud_message;
 
+//simple red welcome box for players once they spawn in for the first time.
+
 init()
 {
     level thread onplayerconnect();
