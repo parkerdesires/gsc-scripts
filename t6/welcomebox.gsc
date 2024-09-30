@@ -95,7 +95,7 @@ hudFade(alpha,time)
 
 createRectangle(align, relative, x, y, width, height, color, shader, sort, alpha, server)
 {
-    boxelem = newClientHudElem( self );
+    boxelem = newClientHudElem(self);
     boxelem.elemtype = "icon";
     boxelem.color = color;
     boxelem.hidewheninmenu = true;
